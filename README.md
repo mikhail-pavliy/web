@@ -19,10 +19,10 @@ vagrant стэнд с проброшенными на локалхост пор�
 ```
 В результате проделанных работ было настроено следующее:
 - Настроен Vagrant файл и плейбука для ansible которая разоваривает следюущую конфигрурацию:
-- 1. сервис go  висит на localhost:8000 проброшен на nginx 81 порт (https://github.com/mikhail-pavliy/go-http-hello-world)
+-  сервис go  висит на localhost:8000 проброшен на nginx 81 порт (https://github.com/mikhail-pavliy/go-http-hello-world)
 
-- 2. сервис react  висит на localhost:8000 проброшен на nginx 82 порт (https://github.com/mikhail-pavliy/go-http-hello-world)
+-  сервис react  висит на localhost:8000 проброшен на nginx 82 порт (https://github.com/mikhail-pavliy/go-http-hello-world)
 ![image](https://user-images.githubusercontent.com/69155591/117134934-1a39eb80-adc8-11eb-9cf5-80b9118d0794.png)
 
-- 3. сервис django висит на localhost:8000 проброшен на nginx 83 порт (https://github.com/mikhail-pavliy/django
+-  сервис django висит на localhost:8000 проброшен на nginx 83 порт (https://github.com/mikhail-pavliy/django
 ![image](https://user-images.githubusercontent.com/69155591/117134976-2756da80-adc8-11eb-92dc-3bf3a8f31595.png)
